@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MidtermExamProject</string>
+    <string name="midterm">Midterm</string>
+    <string name="select_a_sensor">Select a Sensor</string>
+    <string name="read_sensor_data">read sensor data</string>
+    <string name="sensor_name">Sensor Name</string>
+    <string name="back">back</string>
+    <string name="sensor_reading">sensor Reading</string>
+</resources>
